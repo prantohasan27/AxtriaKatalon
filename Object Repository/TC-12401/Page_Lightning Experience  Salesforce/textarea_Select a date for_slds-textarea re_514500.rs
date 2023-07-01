@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Select a date for_slds-textarea re_514500</name>
+   <tag></tag>
+   <elementGuidId>3a3ab474-4f42-4064-bf14-9b8821899320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.slds-textarea.refinementNotes.commentArea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[4]/c-qr-h-o-cycle-level/div/div/table/tbody/tr/td[4]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>9a73956e-b423-44c6-a7cf-50d96d945dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-textarea refinementNotes commentArea</value>
+      <webElementGuid>88d769c8-de5a-461a-b31b-dcf446dc5bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>Level 2</value>
+      <webElementGuid>c5609f2e-5d27-44ff-8cda-3485a92c1e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>322686fe-92e6-48b3-b284-c16039cd0beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-2&quot;]/c-qr-h-o-cycle-level[1]/div[1]/div[1]/table[@class=&quot;slds-table slds-table_cell-buffer slds-table_bordered slds-table_col-bordered&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;slds-p-around_xx-small&quot;]/textarea[@class=&quot;slds-textarea refinementNotes commentArea&quot;]</value>
+      <webElementGuid>c5d25435-39e5-43b2-9305-2ae10988e3a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[4]/c-qr-h-o-cycle-level/div/div/table/tbody/tr/td[4]/div/textarea</value>
+      <webElementGuid>2f07db6c-d54c-42e9-ac36-a2ac8c5ee3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for'])[2]/following::textarea[1]</value>
+      <webElementGuid>187963ec-412c-49f4-ac30-0ff7a9307f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date after Jun 30, 2023'])[2]/following::textarea[1]</value>
+      <webElementGuid>1a7c76b2-b204-423e-90c9-66e9226b6213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply to all'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>5859c92c-396d-4d93-8e87-b56a8a64c6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HAC District Manager'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>58cfe6bf-5c28-4bf7-a2e4-ae97e2b584f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>014bbf4b-b978-40e9-8df6-ca523f1a404d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
